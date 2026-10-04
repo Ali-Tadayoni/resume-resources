@@ -52,6 +52,14 @@ Compares your resume against a job description and provides an ATS compatibility
 
 ---
 
+### ResumeAI
+
+Free ATS checker (3 checks/day anonymous, 10/day with a free account). Publishes State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%).
+
+**Website:** https://withresumeai.com/
+
+---
+
 ### Resume Worded
 
 Provides detailed feedback on your resume and LinkedIn profile. Some advanced features require a paid plan.
